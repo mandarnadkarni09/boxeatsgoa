@@ -1,0 +1,144 @@
+[
+  {
+    "categoryId": 1,
+    "name": "The Hub Special",
+    "products": [
+      {
+        "id": 1,
+        "categoryId": 1,
+        "title": "Mushroom Rawafry",
+        "packSize": "1 Plate",
+        "image": [
+          "mushroom_rawa_fry.JPG"
+        ],
+        "desc": "Mildly spiced button mushroom rawa fried, Goan Style!",
+        "spec": [
+          "Describe your recipe if you want",
+          "Tempt customer with the description",
+          "You can keep on adding the list here, and it will display in bullet form"
+        ],
+          "marketPrice": 250,
+          "sellingPrice": 195,
+          "unitName": "Plate",
+          "vat": 0,
+          "gst": 0
+      },
+      {
+        "id": 2,
+        "categoryId": 1,
+        "title": "Chicken Poutine",
+        "packSize": "1 Plate",
+        "image": [
+          "chicken_poutine.JPG"
+        ],
+        "desc": "Cheese + Secret Souce + Chicken + Fries, trust me its a heaven!",
+        "spec": [
+          "Describe your recipe if you want",
+          "Tempt customer with the description",
+          "You can keep on adding the list here, and it will display in bullet form"
+        ],
+          "marketPrice": 225,
+          "sellingPrice": 225,
+          "unitName": "Plate",
+          "vat": 0,
+          "gst": 0
+      }
+    ]
+  },
+  {
+    "categoryId": 2,
+    "name": "Oriental Starters",
+    "products": [
+      {
+        "id": 3,
+        "categoryId": 2,
+        "title": "Hong Kong Chicken",
+        "packSize": "1 Plate",
+        "image": [
+          "hong_kong_chicken.JPG"
+        ],
+        "desc": "authentic hong kong spices, kind of chef special",
+        "spec": [
+          "Describe your recipe if you want",
+          "Descirbe the pieces you will get in the plate",
+          "Tempt customer with the description",
+          "You can keep on adding the list here, and it will display in bullet form"
+        ],
+          "marketPrice": 255,
+          "sellingPrice": 150,
+          "unitName": "Plate",
+          "vat": 0,
+          "gst": 0
+      },
+      {
+        "id": 4,
+        "categoryId": 2,
+        "title": "Honey Chilli Potato",
+        "packSize": "1 Plate",
+        "image": [
+          "honey_chilli_potato.JPG"
+        ],
+        "desc": "Perfect blend of honey chilli and potato, I bet you just can't have one",
+        "spec": [
+          "Describe your recipe if you want",
+          "Descirbe the pieces you will get in the plate",
+          "Tempt customer with the description",
+          "You can keep on adding the list here, and it will display in bullet form"
+        ],
+          "marketPrice": 255,
+          "sellingPrice": 150,
+          "unitName": "Plate",
+          "vat": 0,
+          "gst": 0
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "name": "Pizzas",
+    "products": [
+      {
+        "id": 5,
+        "categoryId": 3,
+        "title": "Classic Margharita",
+        "packSize": "1 Pizza",
+        "image": [
+          "classic_margharita.JPG"
+        ],
+        "desc": "8 sliced medium sized, Cheese, Tamato, Basil. try it, you will forget DhoMiNoz and PizzaGhat",
+        "spec": [
+          "Describe your recipe if you want",
+          "Descirbe the pieces you will get in the plate",
+          "Tempt customer with the description",
+          "You can keep on adding the list here, and it will display in bullet form"
+        ],
+          "marketPrice": 280,
+          "sellingPrice": 280,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+      },
+      {
+        "id": 6,
+        "categoryId": 3,
+        "title": "Tandoori Twist",
+        "packSize": "1 Pizza",
+        "image": [
+          "tandoori_twist.JPG"
+        ],
+        "desc": "Cheese, Tandoori chicken, Onion",
+        "spec": [
+          "Describe your recipe if you want",
+          "Descirbe the pieces you will get in the plate",
+          "Tempt customer with the description",
+          "You can keep on adding the list here, and it will display in bullet form"
+        ],
+          "marketPrice": 350,
+          "sellingPrice": 310,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+      }
+    ]
+  }
+]
