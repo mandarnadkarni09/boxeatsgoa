@@ -1,11 +1,16 @@
-const theHubGoa = "the-hub-goa-v1"
+const theHubGoa = "the-hub-goa-v2";
+
+
 const assets = [
   "/",
   "/index.html",
   "/assets/icons/*.*",
-  "/app*.js",
-  "/polyfills*.js",
-  "/runtime*.js"
+  "/assets/images/*.*",
+  "/assets/hub-data.json",
+  "/main.*.js",
+  "/polyfills.*.js",
+  "/runtime*.js",
+  "/styles.*.css"
 ];
 
 self.addEventListener("install", installEvent => {
