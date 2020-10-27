@@ -1,4 +1,4 @@
-const theHubGoa = "the-hub-goa-v2";
+const theHubGoa = "the-hub-goa-v4";
 
 
 const assets = [
