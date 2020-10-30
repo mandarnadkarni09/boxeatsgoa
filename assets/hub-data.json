@@ -6,227 +6,161 @@
   "menu": [
     {
       "categoryId": 1,
-      "name": "The Hub Special Munchies",
+      "name": "Hub Special Munchies",
       "products": [
         {
           "id": 1,
           "categoryId": 1,
           "title": "Mushroom Rawafry",
           "packSize": "1 Portion",
-          "image": [
-            "mushroom_rawa_fry.JPG"
-          ],
+          "image": ["mushroom_rawa_fry.JPG"],
           "desc": "Mildly spiced button mushrooms rawa fried, Goan Style!",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 250,
-            "sellingPrice": 185,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
+          "spec": [],
+          "marketPrice": 250,
+          "sellingPrice": 185,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
         },
         {
           "id": 2,
           "categoryId": 1,
           "title": "Chicken Poutine",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "Cheese + Secret Souce + Chicken + Fries, trust us its heavenly!",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 255,
-            "sellingPrice": 225,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 255,
+          "sellingPrice": 225,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 3,
           "categoryId": 1,
           "title": "Chicken Hot Wings",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "Our Speciality !! Please mention the choice of Preparation Mild|Hot|Suicide",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 295,
-            "sellingPrice": 255,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 295,
+          "sellingPrice": 255,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 4,
           "categoryId": 1,
           "title": "Crispy Threaded Chicken",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "Absolutely Delish Stuff.Try it to Believe(Served with HOT GARLIC SAUCE)",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 295,
-            "sellingPrice": 255,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 295,
+          "sellingPrice": 255,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 5,
           "categoryId": 1,
           "title": "Chicken Schezwan Crispy ",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "Our Take on this Famous Chinese Starter ( Absolutely ZERO MSG Added)",
-          "spec": [
-            //"Describe your recipe if you want",
-           // "Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 255,
-            "sellingPrice": 225,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 255,
+          "sellingPrice": 225,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 6,
           "categoryId": 1,
           "title": "Honey Chilli Potato",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "There is no way a Potato dish can taste better then this. Period!",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 225,
-            "sellingPrice": 185,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 225,
+          "sellingPrice": 185,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 7,
           "categoryId": 1,
           "title": "Cispy Corns",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "The BEST Chakhna Snack Ever.... Like Seriously",
-          "spec": [
-            //"Describe your recipe if you want",
-            //Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 225,
-            "sellingPrice": 185,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 225,
+          "sellingPrice": 185,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 8,
           "categoryId": 1,
           "title": "Chilly Chicken",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "Please inform us the choice of your Preparation at the confirmation Chat (Goan|Chinese) ",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 295,
-            "sellingPrice": 225,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 295,
+          "sellingPrice": 225,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 9,
           "categoryId": 1,
           "title": "Potato Rechado",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "The Authentic Rechado Rubber on Fried Potato Wedges and Pan Seered to perfection. Yummy ! ",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 225,
-            "sellingPrice": 185,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 225,
+          "sellingPrice": 185,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 10,
           "categoryId": 1,
           "title": "Chicken Croquettes (10 Pcs)",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "A timeless goan delicacy to munch on at any hour",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 255,
-            "sellingPrice": 225,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": [],
+          "marketPrice": 255,
+          "sellingPrice": 225,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 11,
           "categoryId": 1,
           "title": "Prawns Rissois (10 Pcs)",
           "packSize": "1 Portion",
-          "image": [
-            "chicken_poutine.JPG"
-          ],
+          "image": ["chicken_poutine.JPG"],
           "desc": "Rissóis de Camarão as the portuguese call them. Heavenly Snack !! ",
-          "spec": [
-            //"Describe your recipe if you want",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 255,
-            "sellingPrice": 225,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
+          "spec": [],
+          "marketPrice": 255,
+          "sellingPrice": 225,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
         }
       ]
     },
@@ -239,191 +173,131 @@
           "categoryId": 2,
           "title": "Chicken Cutlet",
           "packSize": "1 Portion",
-          "image": [
-            "hong_kong_chicken.JPG"
-          ],
+          "image": ["hong_kong_chicken.JPG"],
           "desc": "The Classic Goan Street Snack....Choice of Bread (Katre Pao|Poyee)",
-          "spec": [
-            "#HubSpecial try it with Cheese as Extras",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 120,
-            "sellingPrice": 90,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
+          "spec": ["#HubSpecial try it with Cheese as Extras"],
+          "marketPrice": 120,
+          "sellingPrice": 90,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
         },
         {
           "id": 13,
           "categoryId": 2,
           "title": "Chicken Cafreal",
           "packSize": "1 Portion",
-          "image": [
-            "honey_chilli_potato.JPG"
-          ],
+          "image": ["honey_chilli_potato.JPG"],
           "desc": "Super-awesome Cafreal Stuffed in the bread of your choice (Katre Pao|Poyee)",
-          "spec": [
-            "Extremely Popular Item (Timeless)",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 120,
-            "sellingPrice": 90,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": ["Extremely Popular Item (Timeless)"],
+          "marketPrice": 120,
+          "sellingPrice": 90,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 14,
           "categoryId": 2,
           "title": "Chicken Sukkem",
           "packSize": "1 Portion",
-          "image": [
-            "honey_chilli_potato.JPG"
-          ],
+          "image": ["honey_chilli_potato.JPG"],
           "desc": "Coconut Based Chicken Sukkem Stuffed in the bread of your choice (Katre Pao|Poyee)",
-          "spec": [
-            "No Regrets 100%",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 120,
-            "sellingPrice": 90,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": ["No Regrets 100%"],
+          "marketPrice": 120,
+          "sellingPrice": 90,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 15,
           "categoryId": 2,
           "title": "Chicken Chilly",
           "packSize": "1 Portion",
-          "image": [
-            "honey_chilli_potato.JPG"
-          ],
+          "image": ["honey_chilli_potato.JPG"],
           "desc": "Chicken Chilly (Goan|Chinese) Stuffed in the bread of your choice (Katre Pao|Poyee)",
           "spec": [
-            "Please Mention the Choice of Preparation and Bread in the Confirmation Chat",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
+            "Please Mention the Choice of Preparation and Bread in the Confirmation Chat"
           ],
-            "marketPrice": 120,
-            "sellingPrice": 90,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 120,
+          "sellingPrice": 90,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 16,
           "categoryId": 2,
           "title": "Chicken Sorpotel",
           "packSize": "1 Portion",
-          "image": [
-            "honey_chilli_potato.JPG"
-          ],
+          "image": ["honey_chilli_potato.JPG"],
           "desc": "Yes Yes CHICKEN Sorpotel Stuffed in the bread of your choice (Katre Pao|Poyee)",
           "spec": [
-            "Please Mention the Choice of Bread in the Confirmation Chat",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
+            "Please Mention the Choice of Bread in the Confirmation Chat"
           ],
-            "marketPrice": 120,
-            "sellingPrice": 90,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 120,
+          "sellingPrice": 90,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 17,
           "categoryId": 2,
           "title": "Prawn Pickle",
           "packSize": "1 Portion",
-          "image": [
-            "honey_chilli_potato.JPG"
-          ],
+          "image": ["honey_chilli_potato.JPG"],
           "desc": "Goan Prawn Pickle Stuffed in the bread of your choice (Katre Pao|Poyee)",
-          "spec": [
-            "No Vinegar Added | No Synthentic Stuff ☺",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 120,
-            "sellingPrice": 90,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": ["No Vinegar Added | No Synthentic Stuff ☺"],
+          "marketPrice": 120,
+          "sellingPrice": 90,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 18,
           "categoryId": 2,
           "title": "Prawns Dangar",
           "packSize": "1 Portion",
-          "image": [
-            "honey_chilli_potato.JPG"
-          ],
+          "image": ["honey_chilli_potato.JPG"],
           "desc": "Prawns Dangar (Goan Styled Mini Cutlets ) Stuffed in the bread of your choice (Katre Pao|Poyee)",
-          "spec": [
-            "Saraswat Delicacy.Extremly Old Recipie",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 120,
-            "sellingPrice": 90,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": ["Saraswat Delicacy.Extremly Old Recipie"],
+          "marketPrice": 120,
+          "sellingPrice": 90,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 19,
           "categoryId": 2,
           "title": "Prawns Sukkem",
           "packSize": "1 Portion",
-          "image": [
-            "honey_chilli_potato.JPG"
-          ],
+          "image": ["honey_chilli_potato.JPG"],
           "desc": "Prawns Sukkem Stuffed in the bread of your choice (Katre Pao|Poyee)",
-          "spec": [
-            "Goan Prawn Sukkem with Potatoes mildly spiced",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 120,
-            "sellingPrice": 90,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "spec": ["Goan Prawn Sukkem with Potatoes mildly spiced"],
+          "marketPrice": 120,
+          "sellingPrice": 90,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 20,
           "categoryId": 2,
           "title": "Mushroom Chilly",
           "packSize": "1 Portion",
-          "image": [
-            "honey_chilli_potato.JPG"
-          ],
+          "image": ["honey_chilli_potato.JPG"],
           "desc": "Mushroom Chilly Stuffed in the bread of your choice (Katre Pao|Poyee)",
-          "spec": [
-            "We use button mushrooms ☺",
-            //"Descirbe the pieces you will get in the Portion",
-            //"Tempt customer with the description",
-            //"You can keep on adding the list here, and it will display in bullet form"
-          ],
-            "marketPrice": 99,
-            "sellingPrice": 80,
-            "unitName": "Portion",
-            "vat": 0,
-            "gst": 0
+          "spec": ["We use button mushrooms ☺"],
+          "marketPrice": 99,
+          "sellingPrice": 80,
+          "unitName": "Portion",
+          "vat": 0,
+          "gst": 0
         }
-		
       ]
     },
     {
@@ -435,9 +309,7 @@
           "categoryId": 3,
           "title": "Classic Margharita Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "classic_margharita.JPG"
-          ],
+          "image": ["classic_margharita.JPG"],
           "desc": "12 inch hand Rolled , Cheese, Tamato, Basil. try it, you will get over the Commercial Pizzas",
           "spec": [
             "Freshly Baked Pizzas",
@@ -445,20 +317,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 300,
-            "sellingPrice": 280,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
+          "marketPrice": 300,
+          "sellingPrice": 280,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
         },
         {
           "id": 22,
           "categoryId": 3,
           "title": "Veg Delight Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Tomato Onion Capsicum and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -466,20 +336,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 300,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 350,
+          "sellingPrice": 300,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 23,
           "categoryId": 3,
           "title": "Box-Eat Supreme Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Tomato Onion Capsicum Corn Jalapeno Mushrooms and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -487,20 +355,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 320,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 350,
+          "sellingPrice": 320,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 24,
           "categoryId": 3,
           "title": "Spinach and Feta Cheese Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Spinach, Feta Cheese and Mozarella Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -508,20 +374,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 320,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 350,
+          "sellingPrice": 320,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 25,
           "categoryId": 3,
           "title": "Spicy BBQ Chicken Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "BBQ Chicken,Onion,Jalapeno and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -529,20 +393,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 320,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 350,
+          "sellingPrice": 320,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 26,
           "categoryId": 3,
           "title": "Cafreal Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Cafreal Chicken,Onion and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -550,20 +412,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 320,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 350,
+          "sellingPrice": 320,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 27,
           "categoryId": 3,
           "title": "Tandoori Twist Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Tandoori Chicken,Onion and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -571,19 +431,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 320,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }{
+          "marketPrice": 350,
+          "sellingPrice": 320,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 28,
           "categoryId": 3,
           "title": "Teriyaki Chicken Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Teri-Yaki Chicken Onions Chives Roasted Sesame Seeds and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -591,20 +450,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 320,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 350,
+          "sellingPrice": 320,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 29,
           "categoryId": 3,
           "title": "Neaopolitan",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Chicken Ham Salami and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -612,20 +469,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 310,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 350,
+          "sellingPrice": 310,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 30,
           "categoryId": 3,
           "title": "Peri Peri Chicken Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Peri Peri Chicken and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -633,20 +488,18 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 310,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 350,
+          "sellingPrice": 310,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 31,
           "categoryId": 3,
           "title": "Prawn Balchao Pizza",
           "packSize": "1 Pizza",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Prawn Balchao and Cheese",
           "spec": [
             "Freshly Baked Pizzas",
@@ -654,24 +507,24 @@
             "Imported Branded Blended Cheese",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 350,
-            "sellingPrice": 320,
-            "unitName": "Pizza",
-            "vat": 0,
-            "gst": 0
+          "marketPrice": 350,
+          "sellingPrice": 320,
+          "unitName": "Pizza",
+          "vat": 0,
+          "gst": 0
         }
+      ]
+    },
     {
       "categoryId": 4,
       "name": "Pastas",
-      "products": [	
-	    {
+      "products": [
+        {
           "id": 32,
           "categoryId": 4,
           "title": "Creamy Mushroom Pasta",
           "packSize": "1 Pasta",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Buttom Mushroom Reduced in the creamy cheesy white sauce with pasta",
           "spec": [
             "Imported Durum Wheat Penne Pasta",
@@ -679,20 +532,18 @@
             "Contains Milk and Dairy Products",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 250,
-            "sellingPrice": 195,
-            "unitName": "Pasta",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 250,
+          "sellingPrice": 195,
+          "unitName": "Pasta",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 33,
           "categoryId": 4,
           "title": "Creamy Chicken Pasta",
           "packSize": "1 Pasta",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Shredded Chicken reduced in the creamy cheesy white sauce with pasta",
           "spec": [
             "Imported Durum Wheat Penne Pasta",
@@ -700,20 +551,18 @@
             "Contains Milk and Dairy Products",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 280,
-            "sellingPrice": 225,
-            "unitName": "Pasta",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 280,
+          "sellingPrice": 225,
+          "unitName": "Pasta",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 34,
           "categoryId": 4,
           "title": "Veg Arabiatta Pasta",
           "packSize": "1 Pasta",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Arabiatta Sauce cooked with some veggies and slow cooked by adding pasta",
           "spec": [
             "Imported Durum Wheat Penne Pasta",
@@ -721,20 +570,18 @@
             "No Readymade Ingredients Used",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 250,
-            "sellingPrice": 195,
-            "unitName": "Pasta",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 250,
+          "sellingPrice": 195,
+          "unitName": "Pasta",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 35,
           "categoryId": 4,
           "title": "Chicken Arabiatta Pasta",
           "packSize": "1 Pasta",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Arabiatta Sauce cooked with shredded chicken and slow cooked by adding pasta",
           "spec": [
             "Imported Durum Wheat Penne Pasta",
@@ -742,20 +589,18 @@
             "No Readymade Ingredients Used",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 280,
-            "sellingPrice": 225,
-            "unitName": "Pasta",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 280,
+          "sellingPrice": 225,
+          "unitName": "Pasta",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 36,
           "categoryId": 4,
           "title": "Veg Pesto Sauce Pasta",
           "packSize": "1 Pasta",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Rich Nutty Creamy Pesto Sauce with Veggies slow cooked by adding pasta",
           "spec": [
             "Imported Durum Wheat Penne Pasta",
@@ -763,20 +608,18 @@
             "Contains Nut",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 250,
-            "sellingPrice": 195,
-            "unitName": "Pasta",
-            "vat": 0,
-            "gst": 0
-        }
-		{
+          "marketPrice": 250,
+          "sellingPrice": 195,
+          "unitName": "Pasta",
+          "vat": 0,
+          "gst": 0
+        },
+        {
           "id": 37,
           "categoryId": 4,
           "title": "Chicken Pesto Sauce Pasta",
           "packSize": "1 Pasta",
-          "image": [
-            "tandoori_twist.JPG"
-          ],
+          "image": ["tandoori_twist.JPG"],
           "desc": "Rich Nutty Creamy Pesto Sauce with Chicken slow cooked by adding pasta",
           "spec": [
             "Imported Durum Wheat Penne Pasta",
@@ -784,11 +627,11 @@
             "Contains Nuts",
             "Premium Ingredients 100%"
           ],
-            "marketPrice": 280,
-            "sellingPrice": 225,
-            "unitName": "Pasta",
-            "vat": 0,
-            "gst": 0
+          "marketPrice": 280,
+          "sellingPrice": 225,
+          "unitName": "Pasta",
+          "vat": 0,
+          "gst": 0
         }
       ]
     }
